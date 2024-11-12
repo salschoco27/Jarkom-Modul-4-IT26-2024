@@ -11,3 +11,5 @@ Rafael Ega Krisaditya (5027231025)
 ![image](https://github.com/user-attachments/assets/04b5bb9f-7bb7-4b0d-a26b-bfa9011e0ab0)
 
 ## Rute
+![image](https://github.com/user-attachments/assets/a90112e1-b63e-4ceb-8989-7fd5d84094bc)
+
