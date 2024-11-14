@@ -1,5 +1,5 @@
 # Jarkom-Modul-4-IT26-2024
-Salsabila Rahmah (5027231005)
+Salsabila Rahmah (5027231005)<br>
 Rafael Ega Krisaditya (5027231025)
 
 ## Topologi
@@ -11,5 +11,14 @@ Rafael Ega Krisaditya (5027231025)
 ![image](https://github.com/user-attachments/assets/04b5bb9f-7bb7-4b0d-a26b-bfa9011e0ab0)
 
 ## Rute
-![image](https://github.com/user-attachments/assets/a90112e1-b63e-4ceb-8989-7fd5d84094bc)
+![image](https://github.com/user-attachments/assets/e73870b0-2687-4fc6-9e33-0c90b8c3f5c0)
+
+
+## Pembagian IP VLSM
+![image](https://github.com/user-attachments/assets/e394e604-f200-4a47-844e-0a6a609035ab)
+
+
+
+## Pembagian & Penggabungan IP CIDR
+
 
