@@ -13,16 +13,5 @@ Rafael Ega Krisaditya (5027231025)
 ### Pembagian IP VLSM
 ![image](https://github.com/user-attachments/assets/7b70c313-c762-4887-8690-f3a7aa939c83)
 
-## GNS - CIDR
-
-
-
-
-
-
-
-
-
-## Pembagian & Penggabungan IP CIDR
-
-
+## REVISI
+https://youtu.be/FVCbRFi9UAM
